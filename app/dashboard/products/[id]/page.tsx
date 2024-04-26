@@ -9,7 +9,7 @@ const SingleProductPage = () => {
                 <div className={styles.imgContainer}>
                     <Image src="/image.png" alt="" fill />
                 </div>
-                Toeii-Product
+                Toeii-Product-test
             </div>
             <div className={styles.forminfoContainer}>
                 <form action="" className={styles.form}>
